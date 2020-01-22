@@ -6,6 +6,6 @@ install:
   - pip install pipenv
   - pipenv install --dev
   - pipenv install
-script: pipenv run pytest --cov=BigDataCloud
+script: pipenv run pytest --cov=.
 after_success:
   - coveralls
