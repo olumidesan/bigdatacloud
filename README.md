@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/olumidesan/bigdatacloud.svg?branch=master)](https://travis-ci.com/olumidesan/bigdatacloud)
-[![Coverage Status](https://coveralls.io/repos/github/olumidesan/bigdatacloud/badge.svg?branch=master)](https://coveralls.io/github/olumidesan/bigdatacloud?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/olumidesan/bigdatacloud/badge.svg?branch=master)](https://coveralls.io/github/olumidesan/bigdatacloud?branch=master&service=github)
 
 ### BigDataCloud Python Wrapper
 A [nicer] python wrapper around [BigDataCloud](https://www.bigdatacloud.com/)'s API offerings. Theirs was just unneccesarily weird.
